@@ -27,6 +27,8 @@ add equipment entry "ARM_Camp_Shoes_Shadowheart"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_AdventuringTools"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmsChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BagOfHolding"
