@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="Origins">
+        <node id="root">
+            <children>
+                <node id="Origin">
+                    <attribute id="AppearanceLocked" type="bool" value="false"/>
+                    <attribute id="AvailableInCharacterCreation" type="uint8" value="1"/>
+                    <attribute id="BackgroundUUID" type="guid" value="633aa4be-365f-4358-ba56-e2b85f9a88ec"/>
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="ClassEquipmentOverride" type="FixedString" value="EQ_Shadowheart_WoodElf"/>
+                    <attribute id="ClassUUID" type="guid" value="114e7aee-d1d4-4371-8d90-8a2080592faf"/>
+                    <attribute id="Description" type="TranslatedString" handle="h0018f663g4933g4f9dg9c9dg76a324a315e2" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf046d114g7291g4115gb497g86b988ebadac" version="1"/>
+                    <attribute id="GlobalTemplate" type="guid" value="3ed74f06-3c60-42dc-83f6-f034cb47c679"/>
+                    <attribute id="GodUUID" type="guid" value="2eb3557f-7ada-41d6-a892-e02def72ef77"/>
+                    <attribute id="IntroDialogUUID" type="guid" value="9e2f1b19-cfac-b601-a1a8-8b901679826a"/>
+                    <attribute id="LockClass" type="bool" value="false"/>
+                    <attribute id="LockRace" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="Shadowheart"/>
+                    <attribute id="Passives" type="LSString" value="DeathSavingThrows"/>
+                    <attribute id="RaceUUID" type="guid" value="6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a"/>
+                    <attribute id="SubClassUUID" type="guid" value="c54d7591-b305-4f22-b2a7-1bf5c4a3470a"/>
+                    <attribute id="SubRaceUUID" type="guid" value="a459ba68-a9ec-4c8e-b127-602615f5b4c0"/>
+                    <attribute id="UUID" type="guid" value="2bb39cf2-4649-4238-8d0c-44f62b5a3dfd"/>
+                    <attribute id="Unique" type="bool" value="true"/>
+                    <attribute id="VoiceTableUUID" type="guid" value="e9c6707b-a0d5-49b2-8966-a617d75f04eb"/>
+                    <children>
+                        <node id="ReallyTags">
+                            <attribute id="Object" type="guid" value="642d2aee-e3df-47e3-9f47-bbcd441bb9e0"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
