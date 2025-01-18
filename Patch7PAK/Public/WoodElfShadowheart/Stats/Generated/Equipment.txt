@@ -29,7 +29,7 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_AdventuringTools"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipment entry "OBJ_ContainersExtended_ArcheryWeaponsChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ArmorChest"
 add equipmentgroup
@@ -47,7 +47,7 @@ add equipment entry "OBJ_ContainersExtended_DyeRack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
 add equipmentgroup
-add equipment entry "OBJ_ContainersExtended_FootwareBox"
+add equipment entry "OBJ_ContainersExtended_FootwearBox"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GloveBox"
 add equipmentgroup
@@ -59,6 +59,8 @@ add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_JewelryBox"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_MeleeWeaponsChest"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
@@ -66,6 +68,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ShieldsChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ThrownWeaponsChest"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 add equipmentgroup
