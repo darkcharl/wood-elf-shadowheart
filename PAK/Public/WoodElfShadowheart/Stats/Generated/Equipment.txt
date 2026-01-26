@@ -78,3 +78,5 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Wardrobe"
+add equipmentgroup
+add equipment entry "EPI_Camp_Minthara"
